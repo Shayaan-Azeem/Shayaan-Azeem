@@ -1,6 +1,5 @@
-### About Me
-**`Student/Developer/Tech Enthusiast`**
 # Hi, I'm Shayaan 👋
+**`Student/Developer/Tech Enthusiast`**
 I'm a Grade 11 IB student from Toronto, Canada, with a passion for recreational programming. I enjoy creating projects to enhance my skills and simplify my daily life. From conceptualization to implementation, I develop all coding projects from scratch, addressing real-life challenges through code. Currently, I'm delving into Odometry and Reinforcement Learning with VRC Robots, while also expanding my knowledge in Django and Swift UI. 
 
 <h3 align="left">Languages and Tools:</h3>
