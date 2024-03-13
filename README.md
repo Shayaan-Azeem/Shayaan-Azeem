@@ -15,11 +15,3 @@ I'm a Grade 11 IB student from Toronto, Canada, with a passion for recreational 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 </p> 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shayaan_azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayaan_azeem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shayaan-azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayaan-azeem" height="30" width="40" /></a>
-<a href="https://instagram.com/shayaan.azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayaan.azeem" height="30" width="40" /></a>
-</p>
-
