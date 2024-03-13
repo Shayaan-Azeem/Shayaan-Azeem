@@ -1,5 +1,5 @@
 ### Hi there! 👋
-
+**`Student/Developer/`**
 I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 
 - 🔭 Currently, I'm working on Odometry and Reinforcement Learning with VRC Robots.
@@ -17,8 +17,7 @@ I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-</p>
----
+</p> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
