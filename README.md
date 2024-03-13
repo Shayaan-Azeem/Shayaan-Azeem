@@ -15,6 +15,8 @@ I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -23,3 +25,4 @@ I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 <a href="https://linkedin.com/in/shayaan-azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayaan-azeem" height="30" width="40" /></a>
 <a href="https://instagram.com/shayaan.azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayaan.azeem" height="30" width="40" /></a>
 </p>
+
