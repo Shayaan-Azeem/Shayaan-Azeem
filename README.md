@@ -15,6 +15,6 @@ I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 </p>
 
 <h3 align="left">Languages and Tools::</h3>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
