@@ -13,6 +13,7 @@ I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 <a href="https://linkedin.com/in/shayaan-azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayaan-azeem" height="30" width="40" /></a>
 <a href="https://instagram.com/shayaan.azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayaan.azeem" height="30" width="40" /></a>
 </p>
-### Languages and Tools:
 
+<h3 align="left">Languages and Tools::</h3>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
