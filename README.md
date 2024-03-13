@@ -1,18 +1,22 @@
-### Hi there 👋
- I'm Shayaan, a Grade 11 IB Student from White Oaks S.S!
-- 🔭 I’m currently working on Odometry and Reinforcement Learning with VRC Robots 
-- 🌱 I’m currently learning Django and Swift UI 
-- 🏎️ Ask me about Formula 1
+### Hi there! 👋
 
-<h1 align="center">Hi 👋, I'm Shayaan</h1>
-<h3 align="center">A passionate frontend developer from Oakville, Ontario</h3>
+I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shayaan_azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shayaan_azeem" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shayaan-azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shayaan-azeem" height="30" width="40" /></a>
-<a href="https://instagram.com/shayaan.azeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shayaan.azeem" height="30" width="40" /></a>
-</p>
+- 🔭 Currently, I'm working on Odometry and Reinforcement Learning with VRC Robots.
+- 🌱 I’m also learning Django and Swift UI.
+- 🏎️ Feel free to ask me about Formula 1!
 
-<h3 align="left">Languages and Tools:</h3>
+### About Me
+
+# Hi 👋, I'm Shayaan
+### A passionate frontend developer from Oakville, Ontario
+
+### Connect with me:
+
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/shayaan_azeem)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/shayaan-azeem)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/shayaan.azeem)
+
+### Languages and Tools:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
