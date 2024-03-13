@@ -1,11 +1,7 @@
-### Hi there! 👋
+### About Me
 **`Student/Developer/Tech Enthusiast`**
-
-I'm Shayaan, a Grade 11 IB Student from White Oaks S.S. Here's a bit about me:
-
-- 🔭 Currently, I'm working on Odometry and Reinforcement Learning with VRC Robots.
-- 🌱 I’m also learning Django and Swift UI.
-- 🏎️ Feel free to ask me about Formula 1!
+# Hi, I'm Shayaan 👋
+I'm a Grade 11 IB student from Toronto, Canada, with a passion for recreational programming. I enjoy creating projects to enhance my skills and simplify my daily life. From conceptualization to implementation, I develop all coding projects from scratch, addressing real-life challenges through code. Currently, I'm delving into Odometry and Reinforcement Learning with VRC Robots, while also expanding my knowledge in Django and Swift UI. 
 
 <h3 align="left">Languages and Tools:</h3>
 
