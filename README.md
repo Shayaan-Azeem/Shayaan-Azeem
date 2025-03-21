@@ -4,12 +4,12 @@ I'm a high school senior from [Toronto](https://open.spotify.com/track/1zi7xx7UV
 
 ## Current Activities
 - Building drones with the support of [Bloomberg Philanthropies](https://www.bloomberg.org/government-innovation/spurring-innovation-in-cities/youth-climate-action-fund/) and [The Town of Oakville](https://www.oakville.ca/town-hall/news-notices/2024-mayor-s-news-archive/mayor-rob-burton-announces-winners-of-the-2024-youth-climate-action-fund/) to predict forest fires and map vegetation using AI/ML.
-- Leading [White Oaks Robotics Club](https://wossrobotics.ca) ![WOSS Robotics Logo](/wossroboticslogo.png) ([8433W](https://www.robotevents.com/teams/V5RC/8433W)), a community of over 100 students in Oakville, Ontario, competing in VEX.
-- Growing [@starthackclub](https://www.instagram.com/starthackclub/) ![Hack Club Logo](/hclogoround.png) creating relatable content and sharing stories of teen developers from around the world.
+- Leading [White Oaks Robotics Club](https://wossrobotics.ca) ![WOSS Robotics Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/WOSS_Robotics_Logo.svg/120px-WOSS_Robotics_Logo.svg.png) ([8433W](https://www.robotevents.com/teams/V5RC/8433W)), a community of over 100 students in Oakville, Ontario, competing in VEX.
+- Growing [@starthackclub](https://www.instagram.com/starthackclub/) ![Hack Club Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Hack_Club_logo.svg/120px-Hack_Club_logo.svg.png) creating relatable content and sharing stories of teen developers from around the world.
 
 ## Previous Experience
 Recently, I:
-- Organized [Apocalypse Hacks](https://apocalypse.hackclub.com/) ![Apocalypse Hacks Logo](/apocalypse.png), Canada's largest high school hackathon, bringing together 150+ students to inspire the next generation of builders.
+- Organized [Apocalypse Hacks](https://apocalypse.hackclub.com/) ![Apocalypse Hacks Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Apocalypse_Hacks_Logo.svg/120px-Apocalypse_Hacks_Logo.svg.png), Canada's largest high school hackathon, bringing together 150+ students to inspire the next generation of builders.
 - Won Bronze 🥉 at the [Canadian World Robot Olympiad](https://wro-association.org/).
 - Qualified for the [VEX World Robotics Championship](https://recf.org/vex-robotics-world-championship/) 🏆, one of the only public school teams in Ontario to achieve this.
 - Qualified for [DECA ICDC](https://www.deca.org/conferences/icdc) in Orlando, placing in the Top 10 🏅 in Ontario.
